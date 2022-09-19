@@ -2,6 +2,7 @@
 
 /**
  * main - Entry point
+ * Description - prints "\"Programming is like a multilingual puzzle"
  * Return: success (0)
  */
 
